@@ -1,6 +1,6 @@
 # Getting Started on State and Functional Components
 
-Created a small example of using a single state and using it to re render the page incorporated with some basic maths functions
+Created a small example of using a single state and playing with it to re render the page incorporated with some basic maths functions
 
 ## Display
 
